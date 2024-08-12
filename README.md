@@ -1,6 +1,7 @@
 ##PIZZA PLACE SALES ANALYSIS
 
 About Dataset
+
 -The dataset is from Maven Analytics under the name Pizza Place Sales with a total of 48,620 rows and 12 fields.
 -This dataset contains 4 tables in CSV format.
 -The Orders table contains the order id, date, and time in which all orders were placed.
@@ -9,6 +10,7 @@ About Dataset
 -The Pizza Types table contains details of the pizza types in the pizza table, including their names as they appear on the menu, the category they fall under, and their list of ingredients.
 
 Objectives
+
 -Total revenue over a year.
 -Total orders in a year.
 -The average number of Pizzas in an order.
@@ -18,6 +20,7 @@ Objectives
 -Average order value.
 
 INSIGHTS
+
 -Total sales of the year is $817860.
 -Total number of orders received in the year is 21350 with an average order per day is 60.
 -The best-selling pizza is the Thai Chicken Pizza while the least-selling Pizza is The Brie Carre Pizza.
@@ -27,6 +30,7 @@ INSIGHTS
 -The month of July recorded the most number of orders and sales and a decline of sales in October as it recorded the least number of orders. 
 
 RECOMMENDATIONS
+
 -The worst-selling pizzas like the Brie_carre pizzas should be removed from the menu to save cost and more attention should be given to the best sellers.
 -XL and XXL pizza should be more promoted by giving offers when people come as groups or with families.
 -pizza sales should increase in the month of October by providing any offers.
